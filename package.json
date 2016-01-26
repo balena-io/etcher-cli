@@ -1,5 +1,5 @@
 {
-  "name": "resin-etcher-cli",
+  "name": "etcher-cli",
   "version": "0.0.1",
   "main": "lib/etcher.js",
   "preferGlobal": true,
@@ -7,10 +7,10 @@
     "etcher": "./bin/etcher"
   },
   "description": "A CLI image burner with support for Windows, OS X and GNU/Linux.",
-  "homepage": "https://github.com/resin-io/resin-etcher-cli",
+  "homepage": "https://github.com/resin-io/etcher-cli",
   "repository": {
     "type": "git",
-    "url": "git@github.com:resin-io/resin-etcher-cli.git"
+    "url": "git@github.com:resin-io/etcher-cli.git"
   },
   "author": "Juan Cruz Viotti <juan@resin.io>",
   "license": "Apache-2.0",
