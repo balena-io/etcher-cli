@@ -21,7 +21,7 @@ Installation
 ------------
 
 ```sh
-npm install -g resin-io/etcher-cli
+npm install -g etcher-cli
 ```
 
 Usage
