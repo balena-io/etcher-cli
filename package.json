@@ -1,6 +1,6 @@
 {
   "name": "etcher-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/etcher.js",
   "preferGlobal": true,
   "bin": {
