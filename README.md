@@ -5,6 +5,8 @@ Etcher CLI
 
 Join our online chat at [![Gitter chat](https://badges.gitter.im/resin-io/chat.png)](https://gitter.im/resin-io/chat)
 
+**DEPRECATED:** See: https://github.com/resin-io/etcher/blob/master/docs/CLI.md
+
 The easy way to burn images in all operating systems
 ----------------------------------------------------
 
